@@ -1,0 +1,507 @@
+2026-10-24T09:47:31 | INFO | Job 2729 finished, previous ERROR cleared
+2026-10-24T09:50:02 | INFO | Job 1442 finished, previous ERROR cleared
+2026-10-24T09:52:53 | INFO | Запрос 4910 обработан за 6639 мс
+2026-10-24T09:58:28 | INFO | Request 6383 handled in 9360 ms
+2026-10-24T10:04:13 | ERROR | Ошибка записи в файл report_3967.csv
+2026-10-24T10:06:00 | DEBUG | Кэш обновлён за 5774 мс
+2026-10-24T10:11:25 | INFO | Request 5389 handled in 4238 ms
+2026-10-24T10:15:19 | INFO | Job 7556 finished, previous ERROR cleared
+2026-10-24T10:19:43 | INFO | Request 4297 handled in 37 ms
+2026-10-24T10:24:24 | ERROR | Пользователь 4914 не найден
+2026-10-24T10:29:22 | INFO | User 5300 logged in
+2026-10-24T10:34:31 | INFO | Заказ 7048 оформлен
+2026-10-24T10:39:11 | INFO | Пользователь 7459 вошёл в систему
+2026-10-24T10:42:54 | ERROR | Письмо 2057 не доставлено
+2026-10-24T10:47:04 | INFO | Request 1536 handled in 8867 ms
+2026-10-24T10:48:36 | WARNING | Retry 8 of 5 | queue=orders
+2026-10-24T10:50:21 | INFO | Health check ok
+2026-10-24T10:55:29 | DEBUG | Соединений в пуле: 5522
+2026-10-24T10:59:01 | INFO | Запрос 4551 обработан за 5083 мс
+2026-10-24T11:01:25 | INFO | Запрос 2514 обработан за 9942 мс
+2026-10-24T11:05:14 | DEBUG | Heartbeat 1527
+2026-10-24T11:06:59 | INFO | User 9531 logged in
+2026-10-24T11:11:51 | DEBUG | Pool size 1467
+2026-10-24T11:14:17 | INFO | Request 6629 handled in 793 ms
+2026-10-24T11:17:04 | INFO | Request 434 handled in 8993 ms
+2026-10-24T11:21:02 | DEBUG | Кэш обновлён за 1861 мс
+2026-10-24T11:25:14 | WARNING | Память: 4915 МБ из 16384
+2026-10-24T11:28:37 | DEBUG | GC pause 2562 ms
+2026-10-24T11:30:01 | ERROR | Пользователь 4394 не найден
+2026-10-24T11:33:15 | DEBUG | GC pause 9454 ms
+2026-10-24T11:34:26 | INFO | Запрос 6308 обработан за 3065 мс
+2026-10-24T11:37:25 | DEBUG | Cache miss for key user:998
+2026-10-24T11:40:14 | INFO | Config reloaded
+2026-10-24T11:42:40 | WARNING | Certificate expires in 2 days
+2026-10-24T11:48:11 | INFO | Config reloaded
+2026-10-24T11:52:01 | INFO | Job 8800 finished, previous ERROR cleared
+2026-10-24T11:55:36 | WARNING | Certificate expires in 6 days
+2026-10-24T11:57:46 | INFO | Config reloaded
+2026-10-24T12:02:51 | DEBUG | Pool size 7553
+2026-10-24T12:05:58 | INFO | Request 6988 handled in 6498 ms
+2026-10-24T12:07:21 | INFO | Request 3556 handled in 129 ms
+2026-10-24T12:08:2
+2026-10-24T12:10:22 | WARNING | Slow query: 7357 ms
+2026-10-24T12:12:32 | WARNING | Диск заполнен на 76%
+2026-10-24T12:14:44 | INFO | Health check ok
+2026-10-24T12:16:11 | INFO | Проверка связи: ок
+2026-10-24T12:21:41 | WARNING | Retry 3 of 5 | queue=orders
+2026-10-24T12:23:21 | INFO | Пользователь 6611 вошёл в систему
+2026-10-24T12:26:01 | INFO | Job 1748 finished, previous ERROR cleared
+2026-10-24T12:28:24 | WARNING | Диск заполнен на 86%
+2026-10-24T12:29:26 | INFO | User 1532 logged in
+2026-10-24T12:31:51 | WARNING | Slow query: 1199 ms
+2026-10-24T12:37:32 | DEBUG | Heartbeat 8154
+2026-10-24T12:41:20 | INFO | Request 6821 handled in 2508 ms
+2026-10-24T12:42:57 | DEBUG | Heartbeat 4548
+2026-10-24T12:47:01 | DEBUG | Heartbeat 4660
+2026-10-24T12:52:43 | INFO | Проверка связи: ок
+2026-10-24T12:55:55 | DEBUG | GC pause 2612 ms
+2026-10-24T12:58:25 | DEBUG | Pool size 957
+2026-10-24T13:00:52 | DEBUG | GC pause 3913 ms
+2026-10-24T13:06:24 | INFO | Запрос 1591 обработан за 334 мс
+2026-10-24T13:08:16 | WARNING | Slow query: 6793 ms
+2026-10-24T13:12:06 | INFO | Заказ 1885 оформлен
+2026-10-24T13:14:16 | INFO | Config reloaded
+2026-10-24T13:19:16 | INFO | Health check ok
+2026-10-24T13:21:25 | INFO | Health check ok
+2026-10-24T13:26:55 | DEBUG | Кэш обновлён за 1778 мс
+2026-10-24T13:32:03 | INFO | Заказ 7347 оформлен
+2026-10-24T13:34:08 | INFO | Job 1114 finished, previous ERROR cleared
+2026-10-24T13:39:44 | DEBUG | Cache miss for key user:8919
+2026-10-24T13:41:47 | INFO | Health check ok
+2026-10-24T13:46:44 | WARNING | Slow query: 6936 ms
+2026-10-24T13:51:32 | INFO | Config reloaded
+2026-10-24T13:53:48 | INFO | Request 2128 handled in 2572 ms
+2026-10-24T13:55:11 | ERROR | Ошибка записи в файл report_5834.csv
+2026-10-24T13:56:53 | INFO | User 476 logged in
+2026-10-24T13:59:34 | DEBUG | Heartbeat 8030
+2026-10-24T14:01:14 | INFO | Config reloaded
+2026-10-24T14:03:39 | DEBUG | Cache miss for key user:640
+2026-10-24T14:07:18 | DEBUG | Pool size 7588
+2026-10-24T14:09:03 | INFO | Job 7675 finished, previous ERROR cleared
+2026-10-24T14:14:07 | INFO | Config reloaded
+2026-10-24T14:17:03 | INFO | Request 459 handled in 901 ms
+2026-10-24T14:21:48 | INFO | Заказ 8407 оформлен
+2026-10-24T14:24:51 | INFO | Запрос 6682 обработан за 6170 мс
+2026-10-24T14:26:54 | DEBUG | Cache miss for key user:2371
+2026-10-24T14:30:10 | INFO | Запрос 9412 обработан за 8919 мс
+2026-10-24T14:34:29 | DEBUG | Cache miss for key user:1052
+2026-10-24T14:39:32 | INFO | Job 4193 finished, previous ERROR cleared
+2026-10-24T14:43:55 | DEBUG | Cache miss for key user:4891
+2026-10-24T14:46:14 | WARNING | Certificate expires in 2 days
+2026-10-24T14:48:48 | INFO | Health check ok
+2026-10-24T14:54:21 | INFO | User 4665 logged in
+2026-10-24T14:58:32 | INFO | User 7509 logged in
+2026-10-24T15:03:28 | WARNING | Память: 8212 МБ из 16384
+2026-10-24T15:08:49 | DEBUG | Соединений в пуле: 5459
+2026-10-24T15:13:56 | DEBUG | Соединений в пуле: 6292
+2026-10-24T15:17:52 | DEBUG | Cache miss for key user:5279
+2026-10-24T15:22:47 | INFO | Job 1142 finished, previous ERROR cleared
+2026-10-24T15:26:19 | WARNING | Certificate expires in 1 days
+2026-10-24T15:29:45 | DEBUG | Heartbeat 780
+2026-10-24T15:33:20 | INFO | Health check ok
+2026-10-24T15:35:02 | WARNING | Slow query: 7158 ms
+2026-10-24T15:37:04 | DEBUG | GC pause 2905 ms
+2026-10-24T15:41:42 | DEBUG | GC pause 3399 ms
+2026-10-24T15:46:01 | DEBUG | Pool size 9466
+2026-10-24T15:51:25 | INFO | Health check ok
+2026-10-24T15:53:51 | INFO | Request 3034 handled in 717 ms
+2026-10-24T15:58:52 | INFO | Config reloaded
+2026-10-24T16:04:13 | INFO | Проверка связи: ок
+2026-10-24T16:06:05 | INFO | Job 8110 finished, previous ERROR cleared
+2026-10-24T16:11:09 | INFO | Request 45 handled in 8369 ms
+2026-10-24T16:15:01 | INFO | Запрос 5610 обработан за 1239 мс
+2026-10-24T16:16:40 | DEBUG | Heartbeat 4824
+2026-10-24T16:21:35 | DEBUG | Сессий в памяти: 5901
+2026-10-24T16:24:17 | INFO | User 5006 logged in
+2026-10-24T16:25:28 | INFO | Проверка связи: ок
+2026-10-24T16:27:31 | INFO | Config reloaded
+2026-10-24T16:28:57 | INFO | Job 9389 finished, previous ERROR cleared
+2026-10-24T16:32:53 | INFO | Request 8882 handled in 2985 ms
+2026-10-24T16:34:13 | DEBUG | GC pause 3924 ms
+2026-10-24T16:38:59 | DEBUG | GC pause 192 ms
+2026-10-24T16:40:33 | INFO | Config reloaded
+2026-10-24T16:45:24 | DEBUG | Pool size 4558
+2026-10-24T16:49:36 | INFO | User 3191 logged in
+2026-10-24T16:53:11 | INFO | Проверка связи: ок
+2026-10-24T16:56:33 | INFO | Config reloaded
+2026-10-24T17:00:15 | DEBUG | GC pause 7010 ms
+2026-10-24T17:01:18 | INFO | Health check ok
+2026-10-24T17:03:37 | INFO | User 8814 logged in
+2026-10-24T17:04:55 | WARNING | Retry 4 of 5 | queue=orders
+2026-10-24T17:08:21 | INFO | Config reloaded
+2026-10-24T17:11:13 | WARNING | Slow query: 909 ms
+2026-10-24T17:15:25 | DEBUG | Pool size 3657
+2026-10-24T17:19:42 | INFO | Config reloaded
+2026-10-24T17:24:21 | INFO | Заказ 8704 оформлен
+2026-10-24T17:29:04 | WARNING | Slow query: 414 ms
+2026-10-24T17:33:37 | INFO | Заказ 936 оформлен
+2026-10-24T17:38:28 | WARNING | Slow query: 3062 ms
+2026-10-24T17:40:19 | INFO | Заказ 1706 оформлен
+2026-10-24T17:44:59 | DEBUG | GC pause 1471 ms
+2026-10-24T17:49:15 | DEBUG | Heartbeat 4115
+2026-10-24T17:50:56 | INFO | Health check ok
+2026-10-24T17:56:34 | DEBUG | Cache miss for key user:6602
+2026-10-24T18:00:28 | DEBUG | Heartbeat 4031
+2026-10-24T18:02:34 | INFO | User 4810 logged in
+2026-10-24T18:05:19 | INFO | Job 1202 finished, previous ERROR cleared
+2026-10-24T18:08:28 | DEBUG | Heartbeat 7571
+2026-10-24T18:13:32 | INFO | Job 1551 finished, previous ERROR cleared
+2026-10-24T18:18:19 | WARNING | Slow query: 5930 ms
+2026-10-24T18:23:57 | INFO | Config reloaded
+2026-10-24T18:25:13 | WARNING | Retry 2 of 5 | queue=orders
+2026-10-24T18:28:27 | INFO | Пользователь 7814 вошёл в систему
+2026-10-24T18:29:40 | DEBUG | Heartbeat 348
+2026-10-24T18:35:22 | DEBUG | GC pause 3140 ms
+2026-10-24T18:37:35 | INFO | Config reloaded
+2026-10-24T18:41:15 | INFO | Health check ok
+2026-10-24T18:44:58 | INFO | Config reloaded
+2026-10-24T18:47:30 | INFO | Пользователь 2102 вошёл в систему
+2026-10-24T18:51:40 | INFO | Config reloaded
+2026-10-24T18:54:29 | WARNING | Slow query: 6059 ms
+2026-10-24T18:57:46 | INFO | Job 5247 finished, previous ERROR cleared
+2026-10-24T19:00:25 | INFO | Health check ok
+2026-10-24T19:06:09 | INFO | Пользователь 468 вошёл в систему
+2026-10-24T19:11:14 | INFO | Пользователь 5864 вошёл в систему
+2026-10-24T19:16:07 | INFO | User 3719 logged in
+2026-10-24T19:21:46 | INFO | Job 1719 finished, previous ERROR cleared
+2026-10-24T19:22:56 | WARNING | Retry 1 of 5 | queue=orders
+2026-10-24T19:25:27 | INFO | Config reloaded
+2026-10-24T19:26:43 | INFO | User 1947 logged in
+2026-10-24T19:28:22 | DEBUG | Pool size 3690
+2026-10-24T19:33:10 | INFO | Пользователь 6767 вошёл в систему
+2026-10-24T19:36:07 | INFO | Пользователь 4628 вошёл в систему
+2026-10-24T19:37:14 | INFO | Запрос 8636 обработан за 643 мс
+2026-10-24T19:41:47 | WARNING | Память: 2776 МБ из 16384
+2026-10-24T19:47:30 | INFO | Request 3390 handled in 2716 ms
+2026-10-24T19:52:48 | INFO | Request 8221 handled in 9393 ms
+2026-10-24T19:54:51 | INFO | Request 8495 handled in 2818 ms
+2026-10-24T19:56:30 | INFO | Request 3788 handled in 8139 ms
+2026-10-24T19:59:13 | INFO | Request 8335 handled in 6051 ms
+2026-10-24T20:04:58 | INFO | Заказ 2393 оформлен
+2026-10-24T20:10:09 | ERROR | Ошибка записи в файл report_1581.csv
+2026-10-24T20:15:40 | ERROR | Ошибка записи в файл report_1107.csv
+2026-10-24T20:18:56 | WARNING | Slow query: 5344 ms
+2026-10-24T20:23:27 | INFO | Config reloaded
+2026-10-24T20:26:10 | INFO | Пользователь 8112 вошёл в систему
+2026-10-24T20:28:08 | INFO | Проверка связи: ок
+2026-10-24T20:31:24 | WARNING | Retry 5 of 5 | queue=orders
+2026-10-24T20:32:45 | INFO | Проверка связи: ок
+2026-10-24T20:36:46 | DEBUG | GC pause 818 ms
+2026-10-24T20:39:08 | DEBUG | Heartbeat 4231
+2026-10-24T20:42:12 | INFO | User 604 logged in
+2026-10-24T20:46:52 | DEBUG | Pool size 9890
+2026-10-24T20:48:55 | DEBUG | Соединений в пуле: 3441
+2026-10-24T20:52:05 | WARNING | Диск заполнен на 80%
+2026-10-24T20:55:42 | INFO | Request 3747 handled in 5647 ms
+2026-10-24T20:57:05 | WARNING | Retry 7 of 5 | queue=orders
+2026-10-24T21:02:45 | INFO | Проверка связи: ок
+2026-10-24T21:05:24 | INFO | Request 8948 handled in 1000 ms
+2026-10-24T21:11:03 | DEBUG | Heartbeat 177
+2026-10-24T21:13:41 | WARNING | Retry 6 of 5 | queue=orders
+2026-10-24T21:19:06 | INFO | Request 6416 handled in 9653 ms
+2026-10-24T21:24:34 | INFO | Проверка связи: ок
+2026-10-24T21:25:54 | WARNING | Certificate expires in 3 days
+2026-10-24T21:28:11 | INFO | User 3195 logged in
+2026-10-24T21:30:32 | INFO | Config reloaded
+2026-10-24T21:34:17 | INFO | Job 232 finished, previous ERROR cleared
+2026-10-24T21:39:58 | INFO | Config reloaded
+2026-10-24T21:43:30 | DEBUG | Cache miss for key user:4616
+2026-10-24T21:48:58 | ERROR | Таймаут 8051 мс при запросе к складу
+2026-10-24T21:52:08 | INFO | Запрос 5566 обработан за 947 мс
+2026-10-24T21:54:41 | WARNING | Slow query: 9553 ms
+2026-10-24T21:59:37 | DEBUG | Сессий в памяти: 5316
+2026-10-24T22:05:00 | DEBUG | Cache miss for key user:694
+2026-10-24T22:07:09 | DEBUG | GC pause 3552 ms
+2026-10-24T22:12:14 | INFO | Заказ 3773 оформлен
+2026-10-24T22:17:41 | INFO | Job 5191 finished, previous ERROR cleared
+2026-10-24T22:23:01 | DEBUG | Кэш обновлён за 110 мс
+2026-10-24T22:25:57 | DEBUG | Cache miss for key user:4348
+2026-10-24T22:29:48 | INFO | User 9163 logged in
+2026-10-24T22:31:41 | DEBUG | Сессий в памяти: 9750
+2026-10-24T22:34:12 | INFO | Job 3566 finished, previous ERROR cleared
+2026-10-24T22:39:26 | INFO | Пользователь 3924 вошёл в систему
+2026-10-24T22:43:53 | INFO | Пользователь 2879 вошёл в систему
+2026-10-24T22:46:59 | DEBUG | Cache miss for key user:709
+2026-10-24T22:49:51 | INFO | Request 8606 handled in 5427 ms
+2026-10-24T22:52:10 | WARNING | Certificate expires in 7 days
+2026-10-24T22:57:42 | INFO | Запрос 4959 обработан за 406 мс
+2026-10-24T22:59:49 | INFO | Config reloaded
+2026-10-24T23:00:51 | DEBUG | GC pause 2398 ms
+2026-10-24T23:02:30 | WARNING | Retry 9 of 5 | queue=orders
+2026-10-24T23:07:21 | INFO | Job 568 finished, previous ERROR cleared
+2026-10-24T23:12:54 | DEBUG | GC pause 9100 ms
+2026-10-24T23:16:09 | INFO | Request 4536 handled in 9031 ms
+2026-10-24T23:18:57 | INFO | Request 8820 handled in 9372 ms
+2026-10-24T23:20:29 | INFO | Config reloaded
+2026-10-24T23:25:54 | DEBUG | Соединений в пуле: 1891
+2026-10-24T23:28:58 | WARNING | Slow query: 4485 ms
+2026-10-24T23:34:14 | INFO | Job 8610 finished, previous ERROR cleared
+2026-10-24T23:39:09 | INFO | Health check ok
+2026-10-24T23:42:56 | WARNING | Retry 7 of 5 | queue=orders
+2026-10-24T23:47:38 | INFO | Пользователь 5246 вошёл в систему
+2026-10-24T23:52:22 | DEBUG | Heartbeat 6223
+2026-10-24T23:55:20 | INFO | Health check ok
+2026-10-25T00:01:03 | INFO | Config reloaded
+2026-10-25T00:05:11 | INFO | Заказ 4073 оформлен
+2026-10-25T00:09:00 | DEBUG | GC pause 7330 ms
+2026-10-25T00:12:41 | ERROR | Пользователь 4976 не найден
+2026-10-25T00:15:07 | WARNING | Slow query: 3830 ms
+2026-10-25T00:17:21 | INFO | Запрос 3919 обработан за 1247 мс
+2026-10-25T00:20:31 | INFO | Request 584 handled in 7145 ms
+2026-10-25T00:24:09 | INFO | Request 6377 handled in 7617 ms
+2026-10-25T00:29:13 | DEBUG | Cache miss for key user:5745
+2026-10-25T00:30:43 | INFO | Job 4978 finished, previous ERROR cleared
+2026-10-25T00:34:04 | INFO | Config reloaded
+2026-10-25T00:39:45 | INFO | Config reloaded
+2026-10-25T00:44:29 | INFO | Заказ 8837 оформлен
+2026-10-25T00:48:07 | DEBUG | Сессий в памяти: 4138
+2026-10-25T00:53:12 | DEBUG | Pool size 372
+2026-10-25T00:56:21 | INFO | Запрос 8708 обработан за 9247 мс
+2026-10-25T00:57:49 | INFO | Заказ 1090 оформлен
+2026-10-25T01:02:54 | DEBUG | Heartbeat 3385
+2026-10-25T01:04:19 | INFO | User 2202 logged in
+2026-10-25T01:06:19 | DEBUG | Pool size 9228
+2026-10-25T01:11:28 | INFO | Пользователь 7904 вошёл в систему
+2026-10-25T01:14:26 | INFO | User 5592 logged in
+2026-10-25T01:15:26 | INFO | Пользователь 6411 вошёл в систему
+2026-10-25T01:20:10 | DEBUG | Соединений в пуле: 2156
+2026-10-25T01:22:02 | INFO | Job 1510 finished, previous ERROR cleared
+2026-10-25T01:27:33 | INFO | Config reloaded
+2026-10-25T01:32:54 | INFO | Job 4393 finished, previous ERROR cleared
+2026-10-25T01:37:24 | INFO | Заказ 7263 оформлен
+2026-10-25T01:42:53 | DEBUG | Сессий в памяти: 10
+2026-10-25T01:44:16 | DEBUG | Pool size 1959
+2026-10-25T01:48:06 | INFO | Request 6430 handled in 9770 ms
+2026-10-25T01:50:27 | DEBUG | GC pause 3958 ms
+2026-10-25T01:55:55 | DEBUG | Heartbeat 4561
+2026-10-25T01:57:44 | WARNING | Slow query: 6951 ms
+2026-10-25T02:01:53 | INFO | Config reloaded
+2026-10-25T02:04:42 | WARNING | Certificate expires in 8 days
+2026-10-25T02:06:50 | DEBUG | Соединений в пуле: 5644
+2026-10-25T02:08:03 | INFO | Проверка связи: ок
+2026-10-25T02:12:33 | INFO | Job 4267 finished, previous ERROR cleared
+2026-10-25T02:13:51 | DEBUG | GC pause 4420 ms
+2026-10-25T02:16:01 | INFO | Пользователь 1266 вошёл в систему
+2026-10-25T02:18:53 | INFO | Job 5164 finished, previous ERROR cleared
+2026-10-25T02:20:52 | INFO | Health check ok
+2026-10-25T02:22:08 | INFO | Config reloaded
+2026-10-25T02:27:08 | INFO | Проверка связи: ок
+2026-10-25T02:30:00 | INFO | Запрос 951 обработан за 8834 мс
+2026-10-25T02:34:01 | INFO | Request 7489 handled in 5804 ms
+2026-10-25T02:35:57 | DEBUG | Cache miss for key user:1247
+2026-10-25T02:41:37 | DEBUG | Cache miss for key user:5278
+2026-10-25T02:45:58 | INFO | Config reloaded
+2026-10-25T02:50:02 | INFO | Health check ok
+2026-10-25T02:50:37 | INFO | Job 1786 finished, previous ERROR cleared
+2026-10-25T02:53:12 | INFO | Request 3334 handled in 1351 ms
+2026-10-25T02:54:22 | INFO | Config reloaded
+2026-10-25T02:56:11 | INFO | Request 4383 handled in 6821 ms
+2026-10-25T02:00:29 | INFO | Request 4217 handled in 6812 ms
+2026-10-25T02:00:42 | INFO | Health check ok
+2026-10-25T02:05:12 | INFO | User 4729 logged in
+2026-10-25T02:10:43 | DEBUG | Cache miss for key user:6128
+2026-10-25T02:13:34 | ERROR | Очередь заказов переполнена: 2426 задач | ждём
+2026-10-25T02:14:26 | ERROR | Очередь заказов переполнена: 6142 задач | ждём
+2026-10-25T02:15:53 | WARNING | Slow query: 1948 ms
+2026-10-25T02:17:04 | WARNING | Slow query: 5836 ms
+2026-10-25T02:18:04 | ERROR | Очередь заказов переполнена: 5508 задач | ждём
+2026-10-25T02:18:42 | INFO | Проверка связи: ок
+2026-10-25T02:19:30 | WARNING | Retry 9 of 5 | queue=orders
+2026-10-25T02:20:18 | ERROR | Очередь заказов переполнена: 3789 задач | ждём
+2026-10-25T02:20:55 | ERROR | Очередь заказов переполнена: 2727 задач | ждём
+2026-10-25T02:21:29 | ERROR | Очередь заказов переполнена: 1287 задач | ждём
+2026-10-25T02:21:30 | CRITICAL | Fatal: out of memory, shutting down
+2026-10-25T02:49:54 | INFO | Сервис перезапущен
+2026-10-25T02:51:37 | INFO | Job 6209 finished, previous ERROR cleared
+2026-10-25T02:57:15 | INFO | User 1481 logged in
+2026-10-25T02:59:25 | INFO | Job 1501 finished, previous ERROR cleared
+2026-10-25T03:00:30 | WARNING | Certificate expires in 6 days
+2026-10-25T03:05:08 | INFO | Пользователь 4823 вошёл в систему
+2026-10-25T03:09:24 | DEBUG | Pool size 618
+2026-10-25T03:11:28 | DEBUG | Pool size 3739
+2026-10-25T03:13:22 | INFO | User 77 logged in
+2026-10-25T03:15:41 | WARNING | Retry 9 of 5 | queue=orders
+2026-10-25T03:18:11 | INFO | Request 2931 handled in 7254 ms
+2026-10-25T03:22:37 | WARNING | Диск заполнен на 85%
+2026-10-25T03:25:25 | DEBUG | Кэш обновлён за 8779 мс
+2026-10-25T03:28:26 | WARNING | Retry 4 of 5 | queue=orders
+2026-10-25T03:31:19 | DEBUG | Сессий в памяти: 5945
+2026-10-25T03:34:13 | INFO | Health check ok
+2026-10-25T03:39:30 | DEBUG | Кэш обновлён за 4355 мс
+2026-10-25T03:44:05 | INFO | Config reloaded
+2026-10-25T03:45:41 | DEBUG | Pool size 5008
+2026-10-25T03:47:11 | DEBUG | Pool size 5077
+2026-10-25T03:50:26 | INFO | Job 9342 finished, previous ERROR cleared
+2026-10-25T03:52:31 | DEBUG | GC pause 2842 ms
+2026-10-25T03:53:46 | DEBUG | Heartbeat 5999
+2026-10-25T03:57:27 | INFO | Config reloaded
+2026-10-25T04:01:15 | DEBUG | Кэш обновлён за 2190 мс
+2026-10-25T04:03:14 | DEBUG | Cache miss for key user:7997
+2026-10-25T04:05:07 | INFO | Заказ 8054 оформлен
+2026-10-25T04:06:14 | WARNING | Slow query: 9201 ms
+2026-10-25T04:08:30 | INFO | User 2218 logged in
+2026-10-25T04:13:53 | DEBUG | Cache miss for key user:1124
+2026-10-25T04:15:14 | WARNING | Certificate expires in 9 days
+2026-10-25T04:18:32 | INFO | Запрос 8778 обработан за 1683 мс
+2026-10-25T04:21:51 | INFO | Request 7270 handled in 4739 ms
+2026-10-25T04:25:45 | DEBUG | Кэш обновлён за 6042 мс
+2026-10-25T04:27:34 | DEBUG | Сессий в памяти: 3431
+2026-10-25T04:32:36 | DEBUG | GC pause 1012 ms
+2026-10-25T04:36:51 | INFO | Request 3762 handled in 7619 ms
+2026-10-25T04:38:52 | INFO | User 5639 logged in
+2026-10-25T04:40:47 | DEBUG | Сессий в памяти: 9329
+2026-10-25T04:45:51 | DEBUG | GC pause 2784 ms
+2026-10-25T04:51:16 | WARNING | Slow query: 6224 ms
+2026-10-25T04:53:09 | WARNING | Retry 5 of 5 | queue=orders
+2026-10-25T04:54:55 | INFO | Health check ok
+2026-10-25T04:57:08 | WARNING | Медленный ответ склада: 6622 мс
+2026-10-25T05:02:13 | INFO | Проверка связи: ок
+2026-10-25T05:07:32 | INFO | Проверка связи: ок
+2026-10-25T05:10:21 | DEBUG | Heartbeat 8510
+2026-10-25T05:12:11 | INFO | Request 9130 handled in 9601 ms
+2026-10-25T05:15:26 | DEBUG | Кэш обновлён за 7044 мс
+2026-10-25T05:20:10 | INFO | Request 3199 handled in 650 ms
+2026-10-25T05:24:40 | DEBUG | Heartbeat 6632
+2026-10-25T05:30:19 | WARNING | Certificate expires in 8 days
+2026-10-25T05:33:24 | INFO | Проверка связи: ок
+2026-10-25T05:37:16 | INFO | User 6300 logged in
+2026-10-25T05:41:17 | WARNING | Slow query: 7402 ms
+2026-10-25T05:45:29 | INFO | Health check ok
+2026-10-25T05:47:38 | INFO | Запрос 3913 обработан за 6969 мс
+2026-10-25T05:49:31 | INFO | Config reloaded
+2026-10-25T05:55:04 | DEBUG | Pool size 9976
+2026-10-25T05:59:35 | INFO | Повтор записи: 2026-10-24T22:15:03Z | INFO | ok
+2026-10-25T06:02:26 | INFO | Job 6158 finished, previous ERROR cleared
+2026-10-25T06:07:57 | WARNING | Медленный ответ склада: 9142 мс
+2026-10-25T06:09:54 | INFO | Health check ok
+2026-10-25T06:13:28 | INFO | Request 1145 handled in 1481 ms
+2026-10-25T06:18:42 | INFO | Health check ok
+2026-10-25T06:24:18 | DEBUG | Pool size 3316
+2026-10-25T06:29:54 | ERROR | Пользователь 2172 не найден
+2026-10-25T06:33:27 | DEBUG | Соединений в пуле: 8181
+2026-10-25T06:37:44 | INFO | User 2432 logged in
+2026-10-25T06:39:22 | INFO | Request 5622 handled in 5177 ms
+2026-10-25T06:41:23 | INFO | User 9520 logged in
+2026-10-25T06:44:03 | INFO | User 6470 logged in
+2026-10-25T06:47:55 | WARNING | Диск заполнен на 93%
+2026-10-25T06:49:04 | INFO | Request 3122 handled in 6132 ms
+2026-10-25T06:50:27 | INFO | Job 4432 finished, previous ERROR cleared
+2026-10-25T06:52:52 | DEBUG | Pool size 1249
+2026-10-25T06:56:00 | INFO | Request 4044 handled in 7901 ms
+2026-10-25T07:01:40 | WARNING | Certificate expires in 3 days
+2026-10-25T07:06:35 | DEBUG | Соединений в пуле: 1264
+2026-10-25T07:12:10 | DEBUG | Pool size 155
+2026-10-25T07:17:18 | INFO | User 8179 logged in
+2026-10-25T07:20:07 | INFO | Пользователь 3673 вошёл в систему
+2026-10-25T07:22:35 | INFO | Job 5315 finished, previous ERROR cleared
+2026-10-25T07:24:36 | INFO | Пользователь 2285 вошёл в систему
+2026-10-25T07:29:41 | DEBUG | GC pause 2079 ms
+2026-10-25T07:31:55 | INFO | Request 6995 handled in 5714 ms
+2026-10-25T07:37:08 | INFO | Заказ 9629 оформлен
+2026-10-25T07:38:41 | DEBUG | Cache miss for key user:95
+2026-10-25T07:42:17 | INFO | Request 1411 handled in 2235 ms
+2026-10-25T07:44:02 | INFO | User 1492 logged in
+2026-10-25T07:49:12 | INFO | Job 9554 finished, previous ERROR cleared
+2026-10-25T07:54:55 | DEBUG | Pool size 1127
+2026-10-25T07:59:29 | WARNING | Certificate expires in 9 days
+2026-10-25T08:01:26 | INFO | Заказ 4341 оформлен
+2026-10-25T08:07:11 | INFO | User 9556 logged in
+2026-10-25T08:08:37 | INFO | Job 9449 finished, previous ERROR cleared
+2026-10-25T08:12:44 | WARNING | Память: 5724 МБ из 16384
+2026-10-25T08:14:59 | INFO | Пользователь 608 вошёл в систему
+2026-10-25T08:19:52 | DEBUG | Сессий в памяти: 33
+2026-10-25T08:24:21 | INFO | User 6380 logged in
+2026-10-25T08:28:07 | INFO | Заказ 8834 оформлен
+2026-10-25T08:31:50 | INFO | Config reloaded
+2026-10-25T08:35:48 | INFO | Request 1895 handled in 1896 ms
+2026-10-25T08:41:16 | WARNING | Retry 9 of 5 | queue=orders
+2026-10-25T08:42:23 | INFO | Job 9584 finished, previous ERROR cleared
+2026-10-25T08:46:41 | INFO | Request 8067 handled in 8727 ms
+2026-10-25T08:51:10 | INFO | Пользователь 4143 вошёл в систему
+2026-10-25T08:54:45 | DEBUG | Cache miss for key user:8347
+2026-10-25T08:55:51 | DEBUG | Cache miss for key user:9871
+2026-10-25T09:00:42 | INFO | Заказ 8937 оформлен
+2026-10-25T09:05:09 | INFO | User 5519 logged in
+2026-10-25T09:06:14 | ERROR | Таймаут 7116 мс при запросе к складу
+2026-10-25T09:07:33 | INFO | Job 7954 finished, previous ERROR cleared
+2026-10-25T09:10:44 | WARNING | Retry 3 of 5 | queue=orders
+2026-10-25T09:12:47 | WARNING | Slow query: 6222 ms
+2026-10-25T09:16:50 | INFO | User 4036 logged in
+2026-10-25T09:22:06 | INFO | Request 6955 handled in 3231 ms
+2026-10-25T09:27:15 | DEBUG | Соединений в пуле: 1455
+2026-10-25T09:32:02 | DEBUG | Heartbeat 342
+2026-10-25T09:33:27 | INFO | Job 9552 finished, previous ERROR cleared
+2026-10-25T09:38:21 | INFO | Запрос 8411 обработан за 9185 мс
+2026-10-25T09:42:59 | INFO | Job 7194 finished, previous ERROR cleared
+2026-10-25T09:44:15 | INFO | Request 1438 handled in 3623 ms
+2026-10-25T09:48:12 | INFO | Health check ok
+2026-10-25T09:53:51 | ERROR | Пользователь 8077 не найден
+2026-10-25T09:57:23 | ERROR | Таймаут 6555 мс при запросе к складу
+2026-10-25T10:00:27 | DEBUG | Pool size 6425
+2026-10-25T10:03:37 | INFO | Config reloaded
+2026-10-25T10:05:04 | INFO | Запрос 1900 обработан за 2787 мс
+2026-10-25T10:06:38 | DEBUG | Соединений в пуле: 7039
+2026-10-25T10:09:45 | INFO | Запрос 8897 обработан за 3757 мс
+2026-10-25T10:14:55 | INFO | User 2219 logged in
+2026-10-25T10:18:12 | INFO | Request 4178 handled in 5468 ms
+2026-10-25T10:20:22 | INFO | User 5613 logged in
+2026-10-25T10:22:11 | INFO | Health check ok
+2026-10-25T10:26:00 | INFO | Пользователь 664 вошёл в систему
+2026-10-25T10:30:35 | INFO | User 1543 logged in
+2026-10-25T10:32:02 | DEBUG | Cache miss for key user:8242
+2026-10-25T10:34:24 | INFO | Config reloaded
+2026-10-25T10:36:31 | DEBUG | Cache miss for key user:638
+2026-10-25T10:37:42 | DEBUG | Heartbeat 4686
+2026-10-25T10:40:14 | INFO | Health check ok
+2026-10-25T10:42:06 | DEBUG | GC pause 9419 ms
+2026-10-25T10:44:46 | INFO | User 1816 logged in
+2026-10-25T10:49:49 | INFO | Config reloaded
+2026-10-25T10:54:09 | WARNING | Медленный ответ склада: 8300 мс
+2026-10-25T10:56:52 | DEBUG | Сессий в памяти: 4149
+2026-10-25T10:58:55 | INFO | User 9266 logged in
+2026-10-25T11:01:36 | INFO | User 3105 logged in
+2026-10-25T11:03:35 | INFO | Job 6029 finished, previous ERROR cleared
+2026-10-25T11:06:24 | DEBUG | Cache miss for key user:9466
+2026-10-25T11:08:42 | DEBUG | Pool size 4592
+2026-10-25T11:12:46 | WARNING | Диск заполнен на 97%
+2026-10-25T11:18:14 | DEBUG | Cache miss for key user:2008
+2026-10-25T11:22:47 | INFO | Заказ 2787 оформлен
+2026-10-25T11:25:17 | INFO | Health check ok
+2026-10-25T11:29:49 | DEBUG | Pool size 9825
+2026-10-25T11:34:23 | INFO | Config reloaded
+2026-10-25T11:36:29 | DEBUG | Heartbeat 3129
+2026-10-25T11:40:33 | INFO | Health check ok
+2026-10-25T11:42:06 | INFO | Health check ok
+2026-10-25T11:43:40 | WARNING | Slow query: 1938 ms
+2026-10-25T11:45:53 | DEBUG | Cache miss for key user:8815
+2026-10-25T11:48:28 | INFO | Заказ 7754 оформлен
+2026-10-25T11:50:33 | INFO | Запрос 2907 обработан за 2659 мс
+2026-10-25T11:52:54 | DEBUG | Heartbeat 5082
+2026-10-25T11:54:09 | WARNING | Память: 3292 МБ из 16384
+2026-10-25T11:57:04 | INFO | Request 4393 handled in 9451 ms
+2026-10-25T12:02:34 | INFO | Заказ 4023 оформлен
+2026-10-25T12:07:30 | INFO | Config reloaded
+2026-10-25T12:12:36 | INFO | User 2848 logged in
+2026-10-25T12:15:34 | INFO | Пользователь 870 вошёл в систему
+2026-10-25T12:17:07 | INFO | Job 7832 finished, previous ERROR cleared
+2026-10-25T12:21:31 | DEBUG | Pool size 9474
+2026-10-25T12:26:48 | DEBUG | Cache miss for key user:8731
+2026-10-25T12:27:51 | INFO | Проверка связи: ок
+	
+2026-10-25T12:29:21 | INFO | Job 959 finished, previous ERROR cleared
+2026-10-25T12:32:47 | INFO | Request 3364 handled in 8575 ms
+  	  
+2026-10-25T12:34:16 | INFO | Config reloaded
+2026-10-25T12:35:45 | INFO | Job 554 finished, previous ERROR cleared
+2026-10-25T12:37:09 | DEBUG | Heartbeat 8126
+2026-10-25T12:38:14 | DEBUG | Pool size 6308
+2026-10-25T12:42:00 | INFO | User 5236 logged in
+2026-10-25T12:43:40 | Error | Retry 7 of 5 | queue=orders
+2026-10-25T12:44:48 | ERROR | Ошибка записи в файл report_5179.csv
+2026-10-25T12:50:03 | DEBUG | Cache miss for key user:829
+2026-10-25T12:54:52 | INFO | Проверка связи: ок
+2026-10-25T12:58:36 | DEBUG | Кэш обновлён за 7011 мс
+2026-10-25T13:02:18 | DEBUG | Соединений в пуле: 9828
+2026-10-25T13:06:19 | INFO | Health check ok
+2026-10-25T13:07:25 | INFO | Job 6677 finished, previous ERROR cleared
